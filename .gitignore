@@ -12,4 +12,3 @@ crash.*.log
 *.pem
 *.key
 *.tfvars
-*.docx
